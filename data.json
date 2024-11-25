@@ -1,0 +1,47 @@
+{
+    "usuarios": [
+      {
+        "tipo_documento": "CC",
+        "id_usuario": 1,
+        "Numero": 12345678,
+        "primer_nombre": "Juan",
+        "segundo_nombre": "Carlos",
+        "primer_apellido": "Pérez",
+        "segundo_apellido": "Gómez",
+        "email": "juanperez@example.com",
+        "contrasena": "12345",
+        "numero_celular": "3001234567"
+      },
+      {
+        "tipo_documento": "TI",
+        "id_usuario": 2,
+        "primer_nombre": "Ana",
+        "segundo_nombre": "María",
+        "primer_apellido": "Lopez",
+        "segundo_apellido": "Martínez",
+        "email": "ana.lopez@example.com",
+        "contrasena": "password123",
+        "numero_celular": "3107654321"
+      },
+      {
+        "tipo_documento": "CC",
+        "id_usuario": 3,
+        "primer_nombre": "Pedro",
+        "segundo_nombre": "José",
+        "primer_apellido": "Rodríguez",
+        "segundo_apellido": "Ramírez",
+        "email": "pedroramirez@example.com",
+        "contrasena": "mypassword",
+        "numero_celular": "3209876543"
+      }
+    ],
+    "informacion_demografica": [
+      {
+        "id_usuario": 1,
+        "edad": 45,
+        "direccion": "Bogota - colombia barrio no se xD"
+      }
+    ],
+    "test_respuestas": []
+  }
+  
